@@ -1,0 +1,21 @@
+
+**📊 Dashboard Overview – Sales Insights from Sample Superstore Data**
+
+This dashboard brings together multiple perspectives of the Superstore dataset to help understand **sales performance, regional trends, and discounts**:
+
+1️⃣ **Top-left: Sales by Category (Bar Chart)**
+Shows how total sales are distributed across *Furniture*, *Office Supplies*, and *Technology*.
+Observation: Technology is the highest-selling category.
+
+2️⃣ **Top-right: Sales by Region (Bubble Chart)**
+Bubbles represent regions (*Central, East, South, West*) with size indicating sales volume.
+Observation: Central region leads in sales size, followed by East and West.
+
+3️⃣ **Bottom-left: Sales Distribution by Location (Map)**
+Geographic visualization showing where sales are concentrated.
+Observation: Large sales volumes in states like California, Washington, and New York.
+
+4️⃣ **Bottom-right: Discount by Category (Horizontal Bar Chart)**
+Shows which categories receive higher discounts.
+Observation: Office Supplies category has the highest total discounts.
+
